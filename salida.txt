@@ -1,1 +1,1 @@
-El número NO se encontró.
+Número encontrado en la posición: 7
