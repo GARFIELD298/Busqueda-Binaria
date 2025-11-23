@@ -17,7 +17,6 @@ El archivo debe verse así:
 2
 5
 9
-
 15
 23
 38
@@ -27,16 +26,26 @@ El archivo debe verse así:
 100
 200
 
-- La primera línea (7) es el número a buscar.  
+- (75) es el número a buscar.  
 - Todas las demás líneas son los valores dentro de la lista, la cual debe estar **ordenada** para que la búsqueda binaria funcione correctamente.
 
 ## Archivo generado
-
 - `salida.txt` → Aquí se guarda el resultado de la búsqueda:
   - La posición donde se encontró el número  
   - O un mensaje indicando que no se encontró  
 
 ## Cómo lo ejecuto
-
 Primero compilo el programa:
+Luego lo ejecuto:
 
+Me aseguro de que el archivo `bin.txt` esté en la misma carpeta donde está el programa.
+
+## ¿Para qué me sirve este proyecto?
+Con este proyecto practico:
+- Lectura de archivos en Java  
+- Listas, arreglos y manejo de datos  
+- El algoritmo de búsqueda binaria  
+- Escritura de resultados en otro archivo  
+- Control de errores al leer y escribir  
+
+La búsqueda binaria es un algoritmo muy eficiente y este programa me ayuda a entenderlo mejor y a aplicarlo dentro de un caso práctico.
